@@ -8,8 +8,8 @@ I'm a Data Scientist & Machine Learning Engineer passionate about turning data i
 - **Visualization & Dashboards:** Crafting interactive visualizations and dashboards with [Plotly](https://plotly.com/) and [Dash](https://dash.plotly.com/).
 
 ## Key Projects
-- **The titanic Survival prediction model(#):** I successfully developed a predictive model that determines Titanic passenger survival with an accuracy exceeding 85%..
-- 
+- **The titanic Survival prediction model:** I successfully developed a predictive model that determines Titanic passenger survival with an accuracy exceeding 85%..
+
 - *More projects coming soon!*
 
 ## Connect with Me
